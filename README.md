@@ -16,7 +16,9 @@ d)	Approximate solution using Christofides heuristic
 
 e)	The Held-Karp lower bound
 
-f)	Lin-Kernighan algorithm, LKH-1 and LKH-2.
+f)	Lin-Kernighan algorithm
+
+g)  Lin-Kernighan-Helsgaun, Parts 1 and 2.
 And few others of personal interest if I find any.
 
 2)	Find or implement clear solutions them in C++ and Python and document their performance on practical data sets. Links to few websites that maintain such data sets for TSP are given below in the next section.
