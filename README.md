@@ -23,7 +23,7 @@ And few others of personal interest if I find any.
 
 2)	Find or implement clear solutions them in C++ and Python and document their performance on practical data sets. Links to few websites that maintain such data sets for TSP are given below in the next section.
 
-3)	Using the III method and make efficient implementations of the above mentioned algorithms. The main focus will be usage of steps Implement-reuse of knowledge gained from prior computations, and Incrementalize-usage of efficient data structures to represent the solution.
+3)	Using the III method program efficient implementations of the above mentioned algorithms. The main focus will be usage of steps Implement-reuse of knowledge gained from prior computations, and Incrementalize-usage of efficient data structures to model the solution.
 
 4)	Compare and document the performance of code written in part 3 to those from part 2.
 
